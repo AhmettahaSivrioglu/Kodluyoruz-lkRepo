@@ -4,17 +4,18 @@ index.html dosyası barındırıyor.
 ## Installatıon
 Öncelikle projenizi klonlayın.(Buraya sizin reponuzdan aldığınız link gelecek.)
 
+```
 
-git clone [https://github.com/AhmettahaSivrioglu/kodluyoruzilkrepo.git]()
+git clone  https://github.com/AhmettahaSivrioglu/kodluyoruzilkrepo.git
 
-
+```
 ### Usage
 Projeyi cloneladıktan sonra Visual Studio programında açınız.
 
 Linux için:
 ```
 cd kodluyoruzilkrepo
-code.
+code
 
 ```
 ### Contributing
@@ -29,7 +30,7 @@ Pull requetler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de�
 -->
 [MIT](MIT)
 
-![fotograf](https://miro.medium.com/max/3150/2*TZeK0kyHTRHVv3gUi8BtQg.png)
+![fotograf](https://www.markdownguide.org/assets/images/markdown-guide-og.jpg)
 
 
 
